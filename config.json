@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrtringify",
+        "uuid": 11447298,
+        "checksum": "sfl4ml"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
